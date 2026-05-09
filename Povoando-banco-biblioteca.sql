@@ -289,14 +289,14 @@ INSERT INTO Reserva (id_reserva, id_usuario, id_livro, data_reserva) VALUES
 
 
 insert into emprestimo(id_emprestimo, id_usuario, id_livro, id_funcionario, data_emprestimo)
-values(44, 33, 3, 10, '2025-11-07')
+values(44, 33, 3, 10, '2025-11-07');
 
 insert into emprestimo(id_emprestimo, id_usuario, id_livro, id_funcionario, data_emprestimo)
-values(43, 23, 3, 1, '2025-11-07')
+values(43, 23, 3, 1, '2025-11-07');
 
 insert into emprestimo(id_emprestimo, id_usuario, id_livro, id_funcionario, data_emprestimo)
-values(42, 13, 3, 14, '2025-11-07')
+values(42, 13, 3, 14, '2025-11-07');
 
 insert into emprestimo(id_emprestimo, id_usuario, id_livro, id_funcionario, data_emprestimo)
-values(41, 3, 3, 1, '2025-11-07')
+values(41, 3, 3, 1, '2025-11-07');
 
